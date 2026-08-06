@@ -92,7 +92,7 @@ This project is cuurent under patent process from the **Indian Patent Publicatio
 * Inspired by **Enhanced Approach To Generate One Time Password (OTP)
 Using Quantum True Random Number Generator (QTRNG)
 Riddhi B. Prajapati 11 and Shailesh D. Panchal** : International Journal of Computing and Digital Systems
-* Built as part of **Application Product utilising Quantum Principles**
+* Built as an **Application Product utilising Quantum Principles**
 * Reference Material : **Michael Nielson and Isaac Chuang's Quantum Computation and Quantum Information: 10th Anniversary Edition**
 
 ---
