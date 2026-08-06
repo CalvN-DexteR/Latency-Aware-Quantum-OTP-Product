@@ -1,6 +1,6 @@
 #  **QOTP — Quantum One-Time Pad**
 
->  *TITLE : latency-Aware Ephemeral Buffering Architecture for Quantum Entropic One-Time Passwords*
+>  *TITLE : Latency-Aware Ephemeral Buffering Architecture for Quantum Entropic One-Time Passwords*
 
 ---
 
