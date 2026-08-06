@@ -1,6 +1,6 @@
 #  **QOTP — Quantum One-Time Pad**
 
->  *tITLE : latency-Aware Ephemeral Buffering Architecture for Quantum Entropic One-Time Passwords*
+>  *TITLE : latency-Aware Ephemeral Buffering Architecture for Quantum Entropic One-Time Passwords*
 
 ---
 
@@ -72,22 +72,22 @@ Follow this sequence for the best understanding:
 
 ---
 
-## 🎯 **Use Cases**
+##  **Use Cases**
 
-* 📚 Academic learning (Quantum Computing / Cryptography)
-* 🧪 Project demonstrations 
-* 🏗️ Architecture design reference
-* 💼 Eligible to be implemented as Real World Application
+*  Academic learning (Quantum Computing / Cryptography)
+*  Project demonstrations 
+*  Architecture design reference
+*  Eligible to be implemented as Real World Application
 
 ---
 
-## 📄 **License**
+##  **License**
 
 This project is cuurent under patent process from the **Indian Patent Publication**
 
 ---
 
-## 🙌 **Acknowledgements**
+##  **Acknowledgements**
 
 * Inspired by **Enhanced Approach To Generate One Time Password (OTP)
 Using Quantum True Random Number Generator (QTRNG)
@@ -97,7 +97,7 @@ Riddhi B. Prajapati 11 and Shailesh D. Panchal** : International Journal of Comp
 
 ---
 
-## ⭐ **TEAM**
+##  **TEAM**
 1. Calvin S
 2. Sasikiran L
 3. Sanjay Kumaran S
