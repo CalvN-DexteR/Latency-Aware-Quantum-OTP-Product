@@ -47,7 +47,7 @@ This repository focuses on:
 * Explains the **architecture and workflow visually**
 * Ideal for quick understanding and presentations
 
-🔗 **Watch Here:** `<< https://drive.google.com/drive/folders/1-pL7Y61JWAmrcDPegmrQ2iySg-cR49vS?usp=sharing >>`
+🔗 **Watch Here:** << https://drive.google.com/drive/folders/1-pL7Y61JWAmrcDPegmrQ2iySg-cR49vS?usp=sharing >>
 
 ---
 
